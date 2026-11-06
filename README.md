@@ -1,4 +1,4 @@
-# RFD-AF2-MPNN binder design and screening
+# Protein binder design and structural screening
 
 A package for de novo protein binder design and large-scale screening combining RFdiffusion, ProteinMPNN, AlphaFold2 and Rosetta.
 
